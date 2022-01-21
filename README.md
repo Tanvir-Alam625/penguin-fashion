@@ -1,1 +1,1 @@
-# Penguin-fashion bootstrap will be designed this website
+# Penguin-fashion with bootstrap framework used
